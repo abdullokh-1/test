@@ -1,0 +1,46 @@
+.a{
+    border: solid 3px red;
+    border-radius: 20px ;
+    background-color: aqua;
+    width: 1500px;
+    text-align: center;
+}
+em{
+    color:  red;
+}
+p{
+    color: green;
+}
+.s{
+    background-color: yellow;
+    text-align: center;
+}
+.aaq{
+    width: 1400px;height: 30px;
+}
+.ad{
+    background-color: blue;
+    color: white;
+}   
+.w{
+    background-color: green;
+    text-align: center;
+    color: white;
+    width: 250px;
+}
+.f{
+    background-color: blue;
+    width: 1500px;
+    text-align: center;
+    color: white;
+}
+.c{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.h{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
